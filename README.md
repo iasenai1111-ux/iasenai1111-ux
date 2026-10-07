@@ -101,10 +101,26 @@ Um dos eixos de aplicação prática das aulas: onde a IA entra no trabalho de m
 
 ## 🚀 Projetos em destaque
 
-> Os repositórios estão sendo publicados aos poucos. Os links entram aqui conforme cada projeto vai ao ar.
+**Publicados**
 
-| Projeto | Descrição | Tecnologias | Repositório |
-|---|---|---|---|
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 📦 [**datasets-pratica**](https://github.com/iasenai1111-ux/datasets-pratica) | Datasets fictícios para treinar: vendas, dados sujos para limpeza, campanhas e comentários. | CSV · Python · Power BI |
+| 📈 [**python-analise-campanhas**](https://github.com/iasenai1111-ux/python-analise-campanhas) | Qual canal de mídia traz mais retorno? CTR, CPC, CPA e ROAS com um script comentado. | Python · pandas · matplotlib |
+| 🧪 [**ai-marketing-lab**](https://github.com/iasenai1111-ux/ai-marketing-lab) | Experimentos curtos com IA e dados. O primeiro mede até onde chega um classificador de comentários sem IA. | Python · LLMs |
+| 🎓 [**modelo-portfolio**](https://github.com/iasenai1111-ux/modelo-portfolio) | Guia, modelos de README e checklist para o aluno montar o próprio portfólio. | Markdown · GitHub |
+
+**Em construção**
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 📊 Marketing Intelligence Dashboard | Dashboard de indicadores de marketing. | Power BI · DAX · Power Query |
+| 🎯 AI Persona Generator | Transforma dados de público em personas de marketing. | Python · LLMs |
+| 🧠 Social Media Analyzer | IA para análise de conteúdo e desempenho em redes sociais. | Python · LLMs · pandas |
+| 🎬 AI Content Factory | Pipeline de criação de conteúdo com diferentes modelos de IA. | Python · APIs de IA generativa |
+| 🤖 AI Marketing Assistant | Agente de IA para análise e criação de estratégias de marketing. | Python · LLMs · APIs |
+
+---|---|---|---|
 | 🤖 **AI Marketing Assistant** | Agente de IA para análise e criação de estratégias de marketing. | Python · LLMs · APIs | 🔜 em breve |
 | 📊 **Marketing Intelligence Dashboard** | Dashboard de indicadores de marketing. | Power BI · DAX · Power Query | 🔜 em breve |
 | 🧠 **Social Media Analyzer** | IA para análise de conteúdo e desempenho em redes sociais. | Python · LLMs · Pandas | 🔜 em breve |
@@ -134,8 +150,8 @@ Cada experimento registra a pergunta que eu queria responder, como testei e o qu
 - [ ] Gerador de campanhas usando múltiplos agentes
 - [ ] Pipeline automático de criação de conteúdo
 - [ ] IA conectada ao Power BI
-- [ ] Modelo de README para portfólio de alunos
-- [ ] Datasets de prática para Python e Power BI
+- [x] Modelo de README para portfólio de alunos
+- [x] Datasets de prática para Python e Power BI
 
 ---
 
