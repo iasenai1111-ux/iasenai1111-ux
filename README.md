@@ -106,6 +106,7 @@ Um dos eixos de aplicação prática das aulas: onde a IA entra no trabalho de m
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | 📦 [**datasets-pratica**](https://github.com/iasenai1111-ux/datasets-pratica) | Datasets fictícios para treinar: vendas, dados sujos para limpeza, campanhas e comentários. | CSV · Python · Power BI |
+| 🐍 [**python-colab-manipulacao-dados**](https://github.com/iasenai1111-ux/python-colab-manipulacao-dados) | Laboratório para iniciantes: consolidar planilhas, calcular estatísticas e filtrar dados com pandas no Google Colab. | Python · pandas · Google Colab |
 | 📈 [**python-analise-campanhas**](https://github.com/iasenai1111-ux/python-analise-campanhas) | Qual canal de mídia traz mais retorno? CTR, CPC, CPA e ROAS com um script comentado. | Python · pandas · matplotlib |
 | 🧪 [**ai-marketing-lab**](https://github.com/iasenai1111-ux/ai-marketing-lab) | Experimentos curtos com IA e dados. O primeiro mede até onde chega um classificador de comentários sem IA. | Python · LLMs |
 | 🎓 [**modelo-portfolio**](https://github.com/iasenai1111-ux/modelo-portfolio) | Guia, modelos de README e checklist para o aluno montar o próprio portfólio. | Markdown · GitHub |
