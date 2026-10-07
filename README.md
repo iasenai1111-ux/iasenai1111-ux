@@ -109,6 +109,7 @@ Um dos eixos de aplicação prática das aulas: onde a IA entra no trabalho de m
 | 📈 [**python-analise-campanhas**](https://github.com/iasenai1111-ux/python-analise-campanhas) | Qual canal de mídia traz mais retorno? CTR, CPC, CPA e ROAS com um script comentado. | Python · pandas · matplotlib |
 | 🧪 [**ai-marketing-lab**](https://github.com/iasenai1111-ux/ai-marketing-lab) | Experimentos curtos com IA e dados. O primeiro mede até onde chega um classificador de comentários sem IA. | Python · LLMs |
 | 🎓 [**modelo-portfolio**](https://github.com/iasenai1111-ux/modelo-portfolio) | Guia, modelos de README e checklist para o aluno montar o próprio portfólio. | Markdown · GitHub |
+| 📊 [**powerbi-dashboard-vendas**](https://github.com/iasenai1111-ux/powerbi-dashboard-vendas) | Dashboard de vendas e metas, com 26 medidas DAX documentadas, do básico à inteligência de tempo. | Power BI · DAX · Power Query |
 
 **Em construção**
 
