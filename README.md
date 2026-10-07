@@ -2,9 +2,11 @@
 
 # Rafael Pereira
 
-### Inteligência Artificial aplicada a Marketing, Dados e Automação.
+### Instrutor de Formação Profissional III · Escola SENAI "Orlando Laviero Ferraiuolo"
 
-Projetos práticos, testes, estudos e soluções construídas com IA. Tudo aqui foi feito para resolver um problema real ou para descobrir se dava para resolver.
+**Inteligência Artificial, Dados e Automação: da sala de aula para o portfólio.**
+
+Repositório vivo de aulas, projetos e estudos sobre tecnologias emergentes, compartilhado com alunos e com quem quiser aprender junto.
 
 </div>
 
@@ -12,21 +14,38 @@ Projetos práticos, testes, estudos e soluções construídas com IA. Tudo aqui 
 
 ## 👋 Sobre mim
 
-Eu construo e testo aplicações de **IA generativa, LLMs e agentes de IA** voltadas a **marketing digital, criação de conteúdo e automação de processos**.
+Sou instrutor no SENAI, onde ministro aulas de tecnologia: **Python, Power BI, Inteligência Artificial e análise de dados**.
 
-Do lado dos dados, trabalho com **Power BI e Python** para transformar métricas em decisão, e uso **APIs** para ligar modelos, ferramentas e fontes de dados em um fluxo só.
+Este GitHub existe por dois motivos:
 
-Meu método é simples: escolher um problema, montar um protótipo, medir o resultado e publicar o que aprendi, inclusive o que não funcionou.
+- **Compartilhar conhecimento.** O que eu estudo, testo e levo para a aula fica publicado aqui: materiais, exemplos, datasets e projetos completos.
+- **Ajudar alunos a construir portfólio.** Cada projeto serve de referência para você adaptar, melhorar e publicar no seu próprio GitHub.
+
+O conteúdo acompanha o que está mudando na área: **IA generativa, LLMs, agentes de IA, automação e integração de APIs**, sempre aplicados a um problema real, com destaque para marketing e criação de conteúdo.
 
 ---
 
-## 🧭 Áreas que estou explorando
+## 🎓 Para alunos: como usar este espaço
+
+| Passo | O que fazer |
+|---|---|
+| **1. Explore** | Navegue pelos repositórios e escolha um tema que tenha a ver com o que você quer aprender. |
+| **2. Reproduza** | Faça um *fork*, rode o projeto na sua máquina ou no Google Colab e entenda cada parte. |
+| **3. Modifique** | Troque o dataset, mude o problema, acrescente uma funcionalidade. É aqui que o aprendizado acontece. |
+| **4. Publique** | Suba a sua versão com um README explicando o problema, a solução e o resultado. |
+| **5. Acompanhe** | Clique em **Follow** e em **Watch** nos repositórios para receber as novidades. |
+
+> Um bom portfólio mostra o que você resolveu e como pensou para chegar lá. Três projetos bem explicados valem mais do que vinte copiados.
+
+---
+
+## 🧭 Áreas de estudo
 
 | | | |
 |---|---|---|
 | 🧠 Inteligência Artificial | 🤖 Agentes de IA | ⚙️ Automação |
-| 📊 Data Analytics | 📈 Marketing orientado por dados | 🎯 Marketing Digital |
-| 🎬 IA para criação de conteúdo | 🧩 Integração de APIs | 🐍 Python · Power BI |
+| 📊 Data Analytics e BI | 🐍 Python | 📊 Power BI |
+| 📈 Marketing orientado por dados | 🎬 IA para criação de conteúdo | 🧩 Integração de APIs |
 
 ---
 
@@ -53,9 +72,23 @@ Meu método é simples: escolher um problema, montar um protótipo, medir o resu
 
 ---
 
+## 📚 Trilhas de conteúdo
+
+O material é organizado em trilhas. Cada uma reúne aulas, exercícios e projetos, do básico ao avançado.
+
+| Trilha | O que você encontra |
+|---|---|
+| 🐍 **Python** | Fundamentos, manipulação de dados, automação de tarefas e consumo de APIs. |
+| 📊 **Power BI** | Power Query, modelagem, DAX e design de dashboards, com datasets para praticar. |
+| 🧠 **IA Generativa** | LLMs, engenharia de prompt, RAG e agentes de IA. |
+| ⚙️ **Automação** | Fluxos que conectam ferramentas, dados e modelos de IA. |
+| 📈 **IA aplicada ao Marketing** | Pesquisa, criação de conteúdo e análise de campanhas com apoio de IA. |
+
+---
+
 ## 🤖 IA aplicada ao Marketing
 
-Onde a IA entra no trabalho de marketing, do planejamento à análise:
+Um dos eixos de aplicação prática das aulas: onde a IA entra no trabalho de marketing, do planejamento à análise.
 
 | Etapa | Aplicações |
 |---|---|
@@ -81,17 +114,17 @@ Onde a IA entra no trabalho de marketing, do planejamento à análise:
 
 ---
 
-## 🧪 AI Marketing Lab
+## 🧪 Laboratório de tecnologias emergentes
 
-Este GitHub também é um laboratório. Além dos projetos fechados, publico experimentos curtos com:
+Além dos projetos fechados, publico experimentos curtos, que muitas vezes viram aula depois:
 
 `LLMs` · `Prompt Engineering` · `RAG` · `Agentes de IA` · `Automação` · `APIs` · `Visão Computacional` · `Geração de imagens` · `Geração de vídeo` · `Análise de dados` · `Marketing Intelligence`
 
-Cada experimento registra a pergunta que eu queria responder, como testei e o que encontrei.
+Cada experimento registra a pergunta que eu queria responder, como testei e o que encontrei, inclusive o que não funcionou.
 
 ---
 
-## 🗺️ Projetos futuros
+## 🗺️ Próximos projetos
 
 - [ ] Agente de IA para Marketing
 - [ ] Dashboard inteligente de redes sociais
@@ -101,6 +134,8 @@ Cada experimento registra a pergunta que eu queria responder, como testei e o qu
 - [ ] Gerador de campanhas usando múltiplos agentes
 - [ ] Pipeline automático de criação de conteúdo
 - [ ] IA conectada ao Power BI
+- [ ] Modelo de README para portfólio de alunos
+- [ ] Datasets de prática para Python e Power BI
 
 ---
 
@@ -117,8 +152,8 @@ Cada experimento registra a pergunta que eu queria responder, como testei e o qu
 
 <div align="center">
 
-**Entender como a IA funciona é o começo.**
-**O que me interessa é o que dá para construir com ela.**
+**Tecnologia se aprende construindo.**
+**Este repositório é o caderno aberto desse processo: use, adapte e faça o seu.**
 
 </div>
 
@@ -130,3 +165,5 @@ Cada experimento registra a pergunta que eu queria responder, como testei e o qu
 - **Instagram:** `SEU_INSTAGRAM_AQUI`
 - **Site:** `SEU_SITE_AQUI`
 - **E-mail:** `SEU_EMAIL_AQUI`
+
+<sub>Conteúdo de autoria pessoal, compartilhado para fins educacionais.</sub>
