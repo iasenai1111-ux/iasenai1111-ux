@@ -181,8 +181,8 @@ Cada experimento registra a pergunta que eu queria responder, como testei e o qu
 ## 📬 Contato
 
 - **LinkedIn:** [linkedin.com/in/rsilvas](https://www.linkedin.com/in/rsilvas/)
-- **Instagram:** `SEU_INSTAGRAM_AQUI`
-- **Site:** `SEU_SITE_AQUI`
-- **E-mail:** `SEU_EMAIL_AQUI`
+- **Instagram:** em breve
+- **Site:** em breve
+- **E-mail:** em breve
 
 <sub>Conteúdo de autoria pessoal, compartilhado para fins educacionais.</sub>
