@@ -161,7 +161,7 @@ Cada experimento registra a pergunta que eu queria responder, como testei e o qu
 
 ## 📬 Contato
 
-- **LinkedIn:** `SEU_LINKEDIN_AQUI`
+- **LinkedIn:** [linkedin.com/in/rsilvas](https://www.linkedin.com/in/rsilvas/)
 - **Instagram:** `SEU_INSTAGRAM_AQUI`
 - **Site:** `SEU_SITE_AQUI`
 - **E-mail:** `SEU_EMAIL_AQUI`
